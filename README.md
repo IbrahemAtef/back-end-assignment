@@ -4,8 +4,8 @@
 
 ### For testing the post request
 
-![alt text](./imgs/post)
+![alt text](/imgs/post)
 
 ### For testing the get request
 
-![alt text](./imgs/get)
+![alt text](/imgs/get)
